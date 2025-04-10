@@ -52,13 +52,9 @@ The user interface of **HeroQuest** is intuitive and easy to navigate. Players s
 For example, you might see:
 
 1. Attack
-
 2. Pass
-
 3. Flee
-
 4. Cast a Spell
-
 5. Use an Item
 
 By inputting the number for your choice, the corresponding action will occur.
