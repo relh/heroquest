@@ -6,6 +6,12 @@ Richard Higgins
 
 ---
 
+## Our CD (!COMPACT DISK!) Cover
+**CD Cover:** *Back when people put software on CDs and you put it in your computer to run stuff.*
+![CD Cover](heroquest.png)
+
+---
+
 ## System Requirements
 
 - **True Basic Bronze Edition**  
